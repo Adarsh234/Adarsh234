@@ -39,17 +39,21 @@ I am a passionate developer and security enthusiast focused on building secure, 
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh234&show_icons=true&theme=radical" alt="Adarsh's Stats" />
+</p>
 
-[![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh234&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Adarsh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh234&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh234&theme=radical" alt="Adarsh's Streak" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh234&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh234&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh234&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh234&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy Case" />
+</p>
 ---
 
 ### 🤝 Connect with Me
