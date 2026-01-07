@@ -42,8 +42,11 @@ I am a passionate developer and security enthusiast focused on building secure, 
 <div align="center">
 
 [![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh234&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Adarsh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh234&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh234&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh234&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
