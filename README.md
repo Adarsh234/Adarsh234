@@ -40,19 +40,11 @@ I am a passionate developer and security enthusiast focused on building secure, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh234&show_icons=true&theme=radical" alt="Adarsh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh234&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh234&theme=radical" alt="Adarsh's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh234&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh234&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy Case" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh234&theme=radical&hide_border=true" alt="Streak" />
 </p>
 ---
 
