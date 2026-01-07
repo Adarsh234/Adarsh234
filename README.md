@@ -3,7 +3,7 @@
 💻 Full-Stack Development Enthusiast | 🔐 Cybersecurity Learner | 🚀 Constantly Building & Learning
 
 I’m a developer who enjoys turning ideas into working applications and understanding how things break — and how to secure them.  
-Currently focused on **web development**, **JavaScript-based projects**, and **core cybersecurity concepts**.
+Currently focused on **web development** and **core cybersecurity concepts**.
 
 ---
 
@@ -21,17 +21,27 @@ Currently focused on **web development**, **JavaScript-based projects**, and **c
 - C / C++
 - Java
 - JavaScript
-- Python (basics)
+- Python
+- TypeScript
+- SQL
 
-**Web Development**
+**FrontEnd**
 - HTML5
 - CSS3
 - JavaScript
-- React (learning)
+- React
+- Tailwind
 - Vite
+- Next Js
+- BootStrap
 
-**Databases**
-- MySQL (basics)
+**BackEnd**
+- Node.Js
+- Express.js
+- REST API
+- MySQL
+- PostgreSQL
+- MongoDB
 
 **Cybersecurity**
 - Web security fundamentals  
@@ -41,7 +51,11 @@ Currently focused on **web development**, **JavaScript-based projects**, and **c
 **Tools**
 - Git & GitHub
 - VS Code
-- Linux (basic usage)
+- Linux
+- Postman
+- Vercel
+- Netlify
+- Figma
 
 ---
 
@@ -68,7 +82,7 @@ Tech: Frontend web stack
 ---
 
 ## 📈 What I’m Working On
-- Improving **backend & full-stack skills**
+- Improving **Secure and Safe Website Practice**
 - Writing **cleaner, more secure code**
 - Building projects that combine **development + security**
 
