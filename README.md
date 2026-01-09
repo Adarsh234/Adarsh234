@@ -63,7 +63,8 @@ Currently focused on **web development** and **core cybersecurity concepts**.
 
 🔹 **Blogging Platform**  
 >  built to allow users to write, publish, edit, and browse blog posts.
- Tech: JavaScript, TailWind CSS, React, MongoDB, Node.js
+
+Tech: JavaScript, TailWind CSS, React, MongoDB, Node.js
 
 🔹 **Leave Approval System**  
 > Online leave approval and complier system for business and offices  
