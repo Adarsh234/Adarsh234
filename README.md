@@ -61,6 +61,14 @@ Currently focused on **web development** and **core cybersecurity concepts**.
 
 ## 📌 Featured Projects
 
+🔹 **Blogging Platform**  
+>  built to allow users to write, publish, edit, and browse blog posts.
+Tech: JavaScript, TailWind CSS, React, MongoDB, Node.js
+
+🔹 **Leave Approval System**  
+> Online leave approval and complier system for business and offices  
+Tech: Next.js, TailWind CSS, TypeScript, PostgreSQL
+
 🔹 **CodeCracker**  
 > Online code editor & compiler for HTML, CSS, JavaScript, and Python  
 Tech: HTML, CSS, JavaScript, React  
@@ -71,7 +79,7 @@ Tech: JavaScript, HTML, CSS
 
 🔹 **TasteBudTreat**  
 > Food delivery app (team project)  
-Tech: Frontend web stack  
+Tech: Frontend and Backend web stack  
 
 🔹 **Calculator / Puzzle Game**  
 > Small projects to strengthen JavaScript fundamentals
@@ -89,7 +97,7 @@ Tech: Frontend web stack
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: https://github.com/Adarsh234
+- 💼 GitHub: (https://github.com/Adarsh234)
 - 🔗 LinkedIn: (https://www.linkedin.com/in/adarsh-sharma-b45106308/)
 
 ---
