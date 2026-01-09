@@ -90,7 +90,7 @@ Tech: Frontend web stack
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/Adarsh234
-- 🔗 LinkedIn: *(linked on profile)*
+- 🔗 LinkedIn: (https://www.linkedin.com/in/adarsh-sharma-b45106308/)
 
 ---
 
