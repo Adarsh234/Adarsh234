@@ -28,7 +28,6 @@ Currently focused on **web development** and **core cybersecurity concepts**.
 **FrontEnd**
 - HTML5
 - CSS3
-- JavaScript
 - React
 - Tailwind
 - Vite
